@@ -19,6 +19,28 @@ layer, time-based evaluation, a simulated A/B test, an LLM shopping assistant, a
 > changes some conclusions. Business metrics (CTR, cart, conversion, revenue) are **simulated** from assumed
 > probabilities, because the datasets contain no click logs.
 
+## 📸 Screenshots
+
+| Main UI |
+|:-------------------:|
+| ![Main_UI](screenshots/main_ui-1.png) |
+| ![Main_UI](screenshots/main_ui-2.png) |
+| ![Main_UI](screenshots/main_ui-3.png) |
+| ![Main_UI](screenshots/main_ui-4.png) |
+| ![Main_UI](screenshots/main_ui-5.png) |
+| ![Main_UI](screenshots/main_ui-6.png) |
+| ![Main_UI](screenshots/main_ui-7.png) |
+| ![Main_UI](screenshots/main_ui-8.png) |
+
+
+| Recommendations |
+|:-------------------------:|
+
+
+
+
+
+
 ## 🌐 Live Demo
 > 🚀 **Try the app live**: [Add your Streamlit Cloud / Hugging Face Spaces link here]
 
