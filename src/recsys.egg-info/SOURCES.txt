@@ -1,0 +1,17 @@
+pyproject.toml
+src/recsys/__init__.py
+src/recsys/config.py
+src/recsys.egg-info/PKG-INFO
+src/recsys.egg-info/SOURCES.txt
+src/recsys.egg-info/dependency_links.txt
+src/recsys.egg-info/top_level.txt
+src/recsys/data/__init__.py
+src/recsys/data/download.py
+src/recsys/data/preprocess.py
+src/recsys/data/split.py
+src/recsys/data/synthetic.py
+src/recsys/evaluation/__init__.py
+src/recsys/models/__init__.py
+src/recsys/serving/__init__.py
+src/recsys/utils/__init__.py
+tests/test_split.py
