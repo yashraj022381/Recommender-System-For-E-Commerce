@@ -7,6 +7,12 @@ layer, time-based evaluation, a simulated A/B test, an LLM shopping assistant, a
 "Why this?" explanations.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![Tests](https://img.shields.io/badge/tests-pytest-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c?logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Tests](https://img.shields.io/badge/tests-pytest-green)
+![Stars](https://img.shields.io/github/stars/yashraj022381/Recommender-System-For-E-Commerce?style=social)
 
 > **Read this first.** Most results below come from a **synthetic** shop I generated, which has built-in
 > quirks that favor some models. A quick, untuned run on **real Amazon data** is reported separately and
