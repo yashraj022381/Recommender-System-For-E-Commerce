@@ -44,6 +44,40 @@ layer, time-based evaluation, a simulated A/B test, an LLM shopping assistant, a
 | ![Recommendation (Shopper Mode)](screenshots/rec_shopper-7.png) |
 
 
+| Recommendations (Product Mode) |
+|:-------------------------:|
+| ![Recommendation (Product Mode)](screenshots/rec_product-1.png) |
+| ![Recommendation (Product Mode)](screenshots/rec_product-2.png) |
+
+
+| Compare Models |
+|:-------------------------:|
+| ![Compare Models](screenshots/rec_compare_models-1.png) |
+| ![Compare Models](screenshots/rec_compare_models-2.png) |
+| ![Compare Models](screenshots/rec_compare_models-3.png) |
+| ![Compare Models](screenshots/rec_compare_models-4.png) |
+
+
+| Live Clicks |
+|:-------------------:|
+| ![Live Clicks](screenshots/rec_live_clicks-1.png) |
+| ![Live Clicks](screenshots/rec_live_clicks-2.png) |
+| ![Live Clicks](screenshots/rec_live_clicks-3.png) |
+| ![Live Clicks](screenshots/rec_live_clicks-4.png) |
+| ![Live Clicks](screenshots/rec_live_clicks-5.png) |
+| ![Live Clicks](screenshots/rec_live_clicks-6.png) |
+| ![Live Clicks](screenshots/rec_live_clicks-7.png) |
+
+
+| Simulated A / B Stream |
+|:-------------------:|
+| ![Simulated A / B Stream](screenshots/rec_ab_stream.png) |
+
+
+| Assistant |
+|:-------------------:|
+| ![Assistant](screenshots/rec_assistant-1.png) |
+| ![Assistant](screenshots/rec_assistant-2.png) |
 
 
 ## 🌐 Live Demo
