@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 numpy>=1.26
 pandas>=2.1
 scipy>=1.11
