@@ -33,10 +33,15 @@ layer, time-based evaluation, a simulated A/B test, an LLM shopping assistant, a
 | ![Main_UI](screenshots/main_ui-8.png) |
 
 
-| Recommendations |
+| Recommendations (Shopper Mode) |
 |:-------------------------:|
-
-
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-1.png) |
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-2.png) |
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-3.png) |
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-4.png) |
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-5.png) |
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-6.png) |
+| ![Recommendation (Shopper Mode)](screenshots/rec_shopper-7.png) |
 
 
 
