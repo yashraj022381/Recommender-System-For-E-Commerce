@@ -6,13 +6,13 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from recsys.config import PATHS
-from recsys.evaluation.abtest import exposure, funnel, simulate, top_lists
-from recsys.evaluation.evaluator import Evaluator
-from recsys.serving.service import BUNDLE, MODEL_ORDER, RecService
-from recsys.llm.assistant import Assistant, ShopTools
-from recsys.llm.client import MODEL, make_client
-from recsys.llm.explain import explain_in_words
+from src.recsys.config import PATHS
+from src.recsys.evaluation.abtest import exposure, funnel, simulate, top_lists
+from src.recsys.evaluation.evaluator import Evaluator
+from src.recsys.serving.service import BUNDLE, MODEL_ORDER, RecService
+from src.recsys.llm.assistant import Assistant, ShopTools
+from src.recsys.llm.client import MODEL, make_client
+from src.recsys.llm.explain import explain_in_words
 
 st.set_page_config(page_title="E-commerce RecSys", page_icon="🛍️", layout="wide")
 
