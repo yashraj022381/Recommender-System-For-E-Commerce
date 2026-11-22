@@ -42,3 +42,7 @@ artifacts/*.faiss
 .idea/
 .DS_Store
 Thumbs.db
+
+!data/processed/
+!data/processed/*
+!artifacts/bundle.pkl
