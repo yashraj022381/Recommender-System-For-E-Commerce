@@ -1,4 +1,5 @@
 """Run:  streamlit run app/streamlit_app.py   (after build_artifacts.py and evaluate_all.py)"""
+import os
 import time
 
 import numpy as np
@@ -6,8 +7,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from recsys.config import PATHS
+from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+from recsys.config import PATHS
 
 from recsys.evaluation.abtest import exposure, funnel, simulate, top_lists
 from recsys.evaluation.evaluator import Evaluator
