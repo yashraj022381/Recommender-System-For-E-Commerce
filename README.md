@@ -81,7 +81,7 @@ layer, time-based evaluation, a simulated A/B test, an LLM shopping assistant, a
 
 
 ## 🌐 Live Demo
-> 🚀 **Try the app live**: [Add your Streamlit Cloud / Hugging Face Spaces link here]
+> 🚀 **Try the app live**: [https://recommender-system-for-e-commerce-eeqehp3tuqwsrzzt3tknyf.streamlit.app/]
 
 ## Features
 
